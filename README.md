@@ -1222,7 +1222,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Torrance, CA | <a href="https://www.epirusinc.com/open-roles?gh_jid=5320594004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Cerebras Systems | Applied Machine Learning Engineer Intern | Toronto, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6120149003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Veeam | Data & Analytics Engineering Intern | Alpharetta, GA | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385728101?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Trane Technologies | Software Engineer Intern | La Crosse, WI | <a href="https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2406760EXTERNALENGLOBAL/Software-Development-Engineering-Intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
+| Trane Technologies | Software Engineer Intern | La Crosse, WI | 🔒 | Sep 11 |
 | Tradeweb | Distributed Systems Developer Intern | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301042?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Textron | Software Engineer Intern | Hunt Valley, MD | 🔒 | Sep 11 |
 | Spectrum | Quality Automation Engineer | Greenwood, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/69803068176?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
