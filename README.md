@@ -1219,7 +1219,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Interstates | Apps Programmer Intern | Omaha, NB | <a href="https://careers.interstates.com/jobs/3468/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | General Dynamics | Software Engineering Intern | Dedham, MA | <a href="https://careers-gdms.icims.com/jobs/63934/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Epirus | Test Software Engineer Intern | Torrance, CA | <a href="https://www.epirusinc.com/open-roles?gh_jid=5320590004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| ↳ | Software Engineer Intern | Torrance, CA | <a href="https://www.epirusinc.com/open-roles?gh_jid=5320594004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| ↳ | Software Engineer Intern | Torrance, CA | 🔒 | Sep 12 |
 | Cerebras Systems | Applied Machine Learning Engineer Intern | Toronto, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6120149003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Veeam | Data & Analytics Engineering Intern | Alpharetta, GA | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385728101?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Trane Technologies | Software Engineer Intern | La Crosse, WI | 🔒 | Sep 11 |
