@@ -1184,7 +1184,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Comcast | Site Reliability Engineer Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/468b7de1ef311b5169b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | ↳ | Software Engineer Intern | New York, NY | <a href="https://jobs.comcast.com/job/-/-/45483/69906097360?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Best Buy | Associate Software Engineering Intern 🛂 | Richfield, MN | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25632&siteid=5798&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| ASML | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/c64688484803bb81b43d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| ASML | Software Engineer Intern | San Jose, CA | 🔒 | Sep 15 |
 | Qorvo | Software Engineering Intern 🛂 | San Jose, CA | <a href="https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/?eresc=cvrve&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Comcast | Data Engineering Intern | Philadelphia, PA | <a href="https://jobs.comcast.com/job/-/-/45483/69873352288?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Splunk | Product Manager Intern - Winter | Remote | <a href="https://jobs.jobvite.com/splunk-careers/job/or8pufwc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
