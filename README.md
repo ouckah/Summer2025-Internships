@@ -1178,7 +1178,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Staples | Software Engineer Intern | Framingham, MA | <a href="https://careers.staples.com/en/job/-/-/44412/69911530592?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Seimens | R&D Software Engineering Intern | Louisville, KT | <a href="https://jobs.siemens.com/careers/job/563156120786209?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | RTX | Software Engineering Intern | Burnsville, MN | <a href="https://careers.rtx.com/global/en/job/01723009?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| Playground | Software Engineer Intern | New York, NY | <a href="https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Playground | Software Engineer Intern | New York, NY | 🔒 | Sep 15 |
 | ICR | Cyber Engineer Intern | San Antonio, TX | <a href="https://icr-team.com/?gnk=job&gni=8a7887a87d80d755017da06e8b9b3ac3&&&gns&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Emerson | Firmware Design Engineering Intern | Eden Prairie, MN | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24009372?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Comcast | Site Reliability Engineer Intern | Philadelphia, PA | 🔒 | Sep 15 |
