@@ -1181,7 +1181,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Playground | Software Engineer Intern | New York, NY | <a href="https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | ICR | Cyber Engineer Intern | San Antonio, TX | <a href="https://icr-team.com/?gnk=job&gni=8a7887a87d80d755017da06e8b9b3ac3&&&gns&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Emerson | Firmware Design Engineering Intern | Eden Prairie, MN | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24009372?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| Comcast | Site Reliability Engineer Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/468b7de1ef311b5169b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Comcast | Site Reliability Engineer Intern | Philadelphia, PA | 🔒 | Sep 15 |
 | ↳ | Software Engineer Intern | New York, NY | <a href="https://jobs.comcast.com/job/-/-/45483/69906097360?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Best Buy | Associate Software Engineering Intern 🛂 | Richfield, MN | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25632&siteid=5798&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | ASML | Software Engineer Intern | San Jose, CA | 🔒 | Sep 15 |
